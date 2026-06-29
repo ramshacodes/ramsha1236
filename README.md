@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ramsha</h1>
 <h3 align="center">💻 CS Student | AI & Full-Stack Enthusiast | Building Meaningful Tech, One Project at a Time</h3>
 
-- 🔭 I’m currently working on **An AI-powered language learning app that helps users improve speaking skills through real-time feedback and conversational AI.**
+- 🔭 I’m currently working on **A digital art gallery that provides users an immersive experience.**
 
 - 🌱 I’m currently learning **Full-Stack Development & Advanced AI Techniques**
 
